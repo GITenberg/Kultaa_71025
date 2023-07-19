@@ -1,0 +1,40 @@
+_repo: Kultaa_71025
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Auer, Eino
+    alias: Solmu
+    birthdate: 1898
+    deathdate: 1941
+    gutenberg_agent_id: '55780'
+    url: http://www.gutenberg.org/2009/agents/55780
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Auer
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
+description: 'Abridged translation of: Gold.'
+gutenberg_issued: '2023-06-23'
+identifiers:
+  gutenberg: '71025'
+language: fi
+pgterms:marc905: 20230413095806white
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Kultaa
+url: http://www.gutenberg.org/ebooks/71025
